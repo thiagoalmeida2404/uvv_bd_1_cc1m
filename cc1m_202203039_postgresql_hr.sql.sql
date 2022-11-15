@@ -21,7 +21,7 @@ GRANT ALL ON TABLES TO thiagoo;
 psql -U thiagoo uvv
 202203039
 
--- Schemas
+-- Criacao Schemas
 CREATE SCHEMA hr
 AUTHORIZATION thiagoo;
 
